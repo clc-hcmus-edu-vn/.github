@@ -13,7 +13,7 @@ Chào mừng đến với KimHanNom Chúng tôi tập trung vào việc số hó
 | Tên Repository | Mô tả | Liên kết |
 |---------------|-------|---------|
 | **meta-nom** | Build toàn bộ hệ thống web Kim Han Nom | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/meta-nom) |
-| **translate** | Dịch nghĩa - Thanh Hoang Lam | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/translate) |
+| **translate** | Dịch nghĩa - Thai Hoang Lam | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/translate) |
 | **ocr** | OCR hành chính, thông thường, ngang, dọc| [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/ocr) |
 | **auto-test** | Auto test | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/auto-test) |
 | **mobile** | Mobile | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/mobile) |
