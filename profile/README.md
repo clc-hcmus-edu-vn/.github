@@ -33,6 +33,7 @@ Chào mừng đến với KimHanNom Chúng tôi tập trung vào việc số hó
 | **ocr-corrector-bui-hong-phuc** | Ocr corrector - Bui Hong Duy | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/ocr-corrector-bui-hong-phuc) |
 | **chrome-extension** | Chrome extension | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/chrome-extension) |
 | **trien-generation** | Trien generation - Son | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/trien-generation) |
+| **alignment-sentence** | Alignment sentence - Vuong Quoc Phong | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/sentence-alignment) |
 
 
 ## 📢 Liên hệ & Cộng đồng
