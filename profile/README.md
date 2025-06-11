@@ -44,3 +44,11 @@ Chào mừng đến với KimHanNom Chúng tôi tập trung vào việc số hó
 📢 Mạng xã hội: [Twitter | LinkedIn | Discord]
 
 Cùng nhau, chúng ta gìn giữ di sản tri thức Hán Nôm cho thế hệ mai sau! 📜✨
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clc-hcmus-edu-vn&theme=nord_bright">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clc-hcmus-edu-vn&theme=nord_bright">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clc-hcmus-edu-vn&theme=nord_bright">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=clc-hcmus-edu-vn&theme=nord_bright">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clc-hcmus-edu-vn&theme=nord_bright&utcOffset=+7">
+</p>
