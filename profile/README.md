@@ -44,8 +44,3 @@ Chào mừng đến với KimHanNom Chúng tôi tập trung vào việc số hó
 📢 Mạng xã hội: [Twitter | LinkedIn | Discord]
 
 Cùng nhau, chúng ta gìn giữ di sản tri thức Hán Nôm cho thế hệ mai sau! 📜✨
-
-<p align="center">
-  <img src="https://github.com/clc-hcmus-edu-vn/.github/raw/main/assets/profile-details.png">
-</p>
-
