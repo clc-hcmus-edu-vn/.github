@@ -23,7 +23,7 @@ Chào mừng đến với KimHanNom Chúng tôi tập trung vào việc số hó
 | **backend-v3** | API mobile info | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/backend-v3) |
 | **nomtrans-v3** | Dịch âm - Thai Hoang Lam | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/nomtrans-v3) |
 | **tool-remove-file** | Tracking, xoá, và backup file - Ngo Minh Duc | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/tool-remove-file) |
-| **image-classification-api** | Phân loại | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/image-classification-api) |
+| **image-classification-api** | Phân loại - Nguyen Van Khanh | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/image-classification-api) |
 | **phi-4-inference-translation** | Dịch nghĩa - Hung Dang | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/phi-4-inference-translation) |
 | **web** | Web | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/web) |
 | **phonetic-transcription** | Dịch âm - Tong Trong Tam  | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/phonetic-transcription) |
