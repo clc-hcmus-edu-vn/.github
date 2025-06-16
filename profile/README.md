@@ -14,7 +14,7 @@ Chào mừng đến với KimHanNom Chúng tôi tập trung vào việc số hó
 |---------------|-------|---------|
 | **meta-nom** | Build toàn bộ hệ thống web Kim Han Nom - Ngo Minh Duc | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/meta-nom) |
 | **translate** | Dịch nghĩa - Thai Hoang Lam | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/translate) |
-| **ocr** | OCR hành chính, thông thường, ngang, dọc| [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/ocr) |
+| **ocr** | OCR hành chính, thông thường, ngang, dọc - Ho Khanh Duy, Tran Kim Phat| [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/ocr) |
 | **auto-test** | Auto test - Ngo Minh Duc | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/auto-test) |
 | **mobile** | Mobile - Mai Tuan | [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/mobile) |
 | **translate-vietnamese-to-nom** | Dịch chữ quốc ngữ thành chữ Nôm - Trieu Thanh Duong| [🔗 GitHub](https://github.com/clc-hcmus-edu-vn/translate-vietnamese-to-nom) |
